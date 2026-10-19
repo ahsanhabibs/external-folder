@@ -4,3 +4,10 @@
 span{
     background-color: aqua;
 }
+.art{
+    border: 10px solid gray;
+    border-color: darkorchid;
+    margin: 20px;
+    width: 300px;
+    box-shadow: 10px 10px 5px rgb(62, 44, 44);
+}
