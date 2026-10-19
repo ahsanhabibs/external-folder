@@ -11,3 +11,14 @@ span{
     width: 300px;
     box-shadow: 10px 10px 5px rgb(62, 44, 44);
 }
+.header{
+    text-align: center;
+    text-decoration: underline;
+    font-size:30px;
+    color: rgb(116, 11, 95);
+    height: 1000px;
+    background-color: aquamarine;
+    background-image: url('/img/shuvo.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
